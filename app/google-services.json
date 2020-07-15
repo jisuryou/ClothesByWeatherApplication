@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738493919852",
+    "firebase_url": "https://clothesbyweather.firebaseio.com",
+    "project_id": "clothesbyweather",
+    "storage_bucket": "clothesbyweather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738493919852:android:f25f8caa250b25cb1f5e49",
+        "android_client_info": {
+          "package_name": "edu.skku.map.clothesbyweatherapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738493919852-1bpvro1f8f65bs9qv4pk96pp4j6ctine.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfW5tEUCUMYDVJxKwiFtSG22ESPP_K3Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738493919852-1bpvro1f8f65bs9qv4pk96pp4j6ctine.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
