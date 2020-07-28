@@ -37,19 +37,28 @@
     - Image file (image uri) -> firebase storage
     - Image data (image uri & memo)-> firebase database
     
-
+<div>
+    <img width="200" src="https://user-images.githubusercontent.com/38908158/88668490-ab837f80-d11d-11ea-8c3d-f705ace99d97.png">
+    <img width="200" src="https://user-images.githubusercontent.com/38908158/88668536-b6d6ab00-d11d-11ea-9354-587a36cfdc0a.png">
+    <img width="200" src="https://user-images.githubusercontent.com/38908158/88668552-bb02c880-d11d-11ea-889c-4ce4db3defde.png">
+</div>
 
 # Supporting Landscape
 
 ```
 activity_weather.xml
 ```
+![image](https://user-images.githubusercontent.com/38908158/88668559-bf2ee600-d11d-11ea-899a-cd2f62f1a516.png)
+
 ```
 activity_gallery.xml
 ```
+![image](https://user-images.githubusercontent.com/38908158/88668567-c1914000-d11d-11ea-9b41-81450309ca59.png)
+
 ```
 activity_add.xml
 ```
+![image](https://user-images.githubusercontent.com/38908158/88668582-c524c700-d11d-11ea-8732-ac1f9d7784ba.png)
 
 # Back-end Server
 
