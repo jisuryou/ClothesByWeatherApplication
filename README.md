@@ -48,17 +48,24 @@
 ```
 activity_weather.xml
 ```
-![image](https://user-images.githubusercontent.com/38908158/88668559-bf2ee600-d11d-11ea-899a-cd2f62f1a516.png)
+<div>
+    <img height="200" src="https://user-images.githubusercontent.com/38908158/88668559-bf2ee600-d11d-11ea-899a-cd2f62f1a516.png">
+</div>
 
 ```
 activity_gallery.xml
 ```
-![image](https://user-images.githubusercontent.com/38908158/88668567-c1914000-d11d-11ea-9b41-81450309ca59.png)
+<div>
+    <img height="200" src="https://user-images.githubusercontent.com/38908158/88668567-c1914000-d11d-11ea-9b41-81450309ca59.png">
+</div>
 
 ```
 activity_add.xml
 ```
-![image](https://user-images.githubusercontent.com/38908158/88668582-c524c700-d11d-11ea-8732-ac1f9d7784ba.png)
+<div>
+    <img height="200" src="https://user-images.githubusercontent.com/38908158/88668582-c524c700-d11d-11ea-8732-ac1f9d7784ba.png">
+</div>
+
 
 # Back-end Server
 
